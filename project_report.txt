@@ -1,0 +1,14 @@
+HEALTHGUARD ANALYTICS - PROJECT REPORT
+============================================================
+
+Generated: March 27, 2026
+
+KEY METRICS:
+- Gender: Male 0.0%, Female 0.0%
+- Average Age: 44.8 years
+- Age Range: 1 - 90
+- Primary Infection Source: Contact with confirmed case (34.8%)
+- Average Contacts: 5.0
+- Recovery Rate: 68.4%
+- Average Recovery Time: 12.8 days
+- Most Affected Region: Maharashtra
